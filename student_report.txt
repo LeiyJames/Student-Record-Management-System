@@ -1,0 +1,2 @@
+Name: John Doe, Age: 21, Gender: Male, Address: New York, Grade: A, Attendance: 95%
+Name: Jane Doe, Age: 22, Gender: Female, Address: New Yerk, Grade: B, Attendance: 80%
